@@ -5,6 +5,13 @@ function sayHello(){
 sayHello()
 
 
+function sayGoodMorning(){
+    console.log('Good Morning')
+}
+
+sayGoodMorning()
+
+
 
 
 function Sum(a,b){
