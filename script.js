@@ -5,11 +5,11 @@ function sayHello(){
 sayHello()
 
 
-function sayGoodMorning(){
-    console.log('Good Morning')
+function sayGoodMorning(name){
+    console.log('Good Morning'+ name)
 }
 
-sayGoodMorning()
+sayGoodMorning('deep)
 
 
 
